@@ -1,0 +1,73 @@
+#cadre{
+    border-top: #4b4b4b solid 3px;
+    border-bottom: #4b4b4b solid 3px;
+    width: 500px;
+    height: 350px;
+    background: linear-gradient(to bottom right, blue, white);
+}
+
+#oeuf{
+    padding :20px;
+}
+
+#pre{
+    display: inline-block;
+    text-align: center;
+    border-bottom: black solid 1px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#nom{
+    font-family: "VL Gothic", serif;
+    text-shadow: 5px 5px 5px #4b4b4b;
+    font-size: 32px;
+
+}
+
+#desc{
+    font-style: italic;
+    line-height: 0;
+    font-size: 24px;
+}
+
+#text{
+    padding-left:5%;
+    padding-right:5%;
+    text-align: justify;
+    font-family: "VL Gothic", serif;
+
+}
+
+#follow{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#lin{
+    display: inline-block;
+}
+
+#linI{
+    margin-left: 20px;
+}
+
+#linT{
+    vertical-align: top;
+}
+
+#gitI{
+    vertical-align: top;
+    margin-left: 20px;
+
+}
+
+#mailI{
+    vertical-align: top;
+    margin-left: 20px;
+
+}
+
+#mailT{
+       margin-right: 10px;
+   }
